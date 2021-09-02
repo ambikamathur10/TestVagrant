@@ -9,3 +9,5 @@ This Project contains two tests
 #Step1 : Checkout
 #Step2 : mvn clean install -DskioTests=true
 #Step3 : mvn test
+
+#Results : Open emailable report in browser from location target\surefire-reports\emailable-report
