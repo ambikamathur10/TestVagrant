@@ -1,0 +1,2 @@
+# TestVagrant
+Temperature comparison tests
